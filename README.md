@@ -1,1 +1,1 @@
-# Red-Black-Tree
+Red-Black tree is a binary search tree in which every node is colored with either red or black. It is a type of self balancing binary search tree. It has a good efficient worst case running time complexity.
